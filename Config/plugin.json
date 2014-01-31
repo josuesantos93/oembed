@@ -1,0 +1,13 @@
+{
+	"name" : "Oembed",
+	"description" : "Integrates Embed for Node",
+
+	"author" : "josuesantos93",
+	"authorEmail" : "contato@josuesantos.net",
+	"authorUrl" : "http://josuesantos.net",
+
+	"dependencies": {
+		"plugins": [
+		]
+	}
+}
